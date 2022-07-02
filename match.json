@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/brasil"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.bandeirasnacionais.com/argentina"
     },
   }
 ]
